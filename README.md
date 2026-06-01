@@ -31,7 +31,6 @@ Python • C++ • JavaScript • TypeScript • FastAPI • Node.js • PyTorch
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/anshul-khaire-77732922a/)
-* [Portfolio](https://optimization-visualizer-beta.vercel.app)
 * [LeetCode](https://leetcode.com/u/anshulkhaire/)
 * [Codeforces](https://codeforces.com/profile/anshuldying)
 * [Email](mailto:anshulamitkhaire@gmail.com)
